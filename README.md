@@ -10,5 +10,5 @@ Each assignment focuses on different aspects of Python, from basic programs to m
 > Skill - Practice using dictionary data structures and advanced data types.
 
 (2) Interact with Dog 
-> About - Allows a user to interact with a dog simulation. Command menu allows Status, Feed, Walk, and Quit.
+> About - Allows a user to interact with a dog simulation. Command menu allows Status, Feed, Walk, and Quit. \n
 > Skill - Develop skills working with objects in a defined class.
