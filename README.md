@@ -1,5 +1,7 @@
 # Dev128
-Welcome to my Python repository for Dev128 - Python II. Each assignment focuses on different aspects of Python, from basic programs to more complex algorithms.
+Welcome to my Python repository for Dev128 - Python II.<br/> 
+Each project focuses on different aspects of Python, from basic scripts to more complex algorithms.
+
 
 # Skills
 Upon completion of this course, I understand how to:<br/>
@@ -12,6 +14,7 @@ Upon completion of this course, I understand how to:<br/>
 • Use classes to create an N Tier application structure.<br/>
 • Create a simple Database application.<br/>
 • Create a simple GUI application.
+
 
 **Projects**
 
