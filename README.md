@@ -1,7 +1,7 @@
 # Dev128
 Welcome to my Python repository for Dev128 - Python II. Each assignment focuses on different aspects of Python, from basic programs to more complex algorithms.
 
-Upon completion of this course, I will be able to:
+Upon completion of this course, I will be able to:<br/>
 • Use advanced datatypes including Lists, Tuples and Dictionaries
 • Use Exception Handling appropriately.
 • Create classes that encapsulate application functionality and provide appropriate public members.
