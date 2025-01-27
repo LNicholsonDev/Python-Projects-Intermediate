@@ -6,9 +6,9 @@ Each assignment focuses on different aspects of Python, from basic programs to m
 **Assignments**
 
 (1) Contacts Manager
-> About - Allows a user to manage contacts. Command Menu allows List, View, Add, Delete, Field, and Exit.
+> About - Allows a user to manage contacts. Command Menu allows List, View, Add, Delete, Field, and Exit.<br />
 > Skill - Practice using dictionary data structures and advanced data types.
 
 (2) Interact with Dog 
-> About - Allows a user to interact with a dog simulation. Command menu allows Status, Feed, Walk, and Quit. \n
+> About - Allows a user to interact with a dog simulation. Command menu allows Status, Feed, Walk, and Quit.<br />
 > Skill - Develop skills working with objects in a defined class.
