@@ -16,7 +16,7 @@ Upon completion of this course, I understand how to:<br/>
 • Create a simple GUI application.
 
 
-**Projects**
+# Projects
 
 (1) Contacts Manager
 > About - Allows a user to manage contacts. Command Menu allows List, View, Add, Delete, Field, and Exit.<br />
