@@ -28,4 +28,4 @@ Upon completion of this course, I understand how to:<br/>
 
 **(3) Rectangle and Point Classes**
 > **About** - Two classes which represent a point and a rectangle in a 2-D coordinate space designed to run with provided client code. <br />
-> **Skill** - Adapt to coding with pre-existing client code; Work with classes, private attributes/methods, properties, encapsulation, composition, static attributes.
+> **Skill** - Adapt to coding with pre-existing client code; Work with classes, private attributes/methods, properties, encapsulation, composition, and static attributes.
