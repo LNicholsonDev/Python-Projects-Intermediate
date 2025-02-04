@@ -25,3 +25,7 @@ Upon completion of this course, I understand how to:<br/>
 **(2) Interact with Dog**
 > **About** - Allows a user to interact with a dog simulation. Command menu allows Status, Feed, Walk, and Quit.<br />
 > **Skill** - Develop skills working with objects in a defined class.
+
+**(3) Rectangle and Point Classes**
+> **About** - Two classes which represent a point and a rectangle in a 2-D coordinate space designed to run with provided client code. <br />
+> **Skill** - Adapt to coding with pre-existing client code; Work with classes, private attributes/methods, properties, encapsulation, composition, static attributes.
