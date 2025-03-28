@@ -29,3 +29,33 @@ Upon completion of this course, I understand how to:<br/>
 **(3) Rectangle and Point Classes**
 > **About** - Two classes which represent a point and a rectangle in a 2-D coordinate space designed to run with provided client code. <br />
 > **Skill** - Adapt to coding with pre-existing client code; Work with classes, private attributes/methods, properties, encapsulation, composition, and static attributes.
+
+**(4) Player Data Manager**
+> **About** - Classes designed to handle baseball player data through creation of Player, Pitcher, and Batter objects. <br />
+> **Skill** - Working with classes, inheritance principles, and pre-existing client code. <br />
+
+**(5) Furniture Store Inventory Data Manager**
+> **About** - Classes designed to handle inventory data using inheritance. Furniture items derived from a Furniture superclass. <br />
+> **Skill** - Working with classes, inheritance principles, and pre-existing client code. <br />
+
+**(6) Task Lists using OOP**
+> **About** - Classes designed to support operations in a provided UI design. Supports a program that stores one or more task lists. <br />
+> **Skill** - Working with classes and object composition. <br />
+
+**(7) Working with Databases**
+> **About** - Functions designed to support operations in provided Business/Presentation Tiers. This is the Database Tier for the Players' data manager program (Project 4). <br />
+> **Skill** - Working with databases, sqlite3, and contextilb within Python. <br />
+
+**(8) Working with Databases**
+> **About** - Creation of Presentation Layer for a speeding fine calculator with a GUI.<br />
+> **Skill** - Developing a Graphical User Interface using tkinter in Python. <br />
+
+**(9) FINAL PROJECT: BLACKJACK**
+> **About** - Creation of the classic card game "Blackjack", complete with a user interface.<br />
+> **Skill** - Creating classes, objects, game rules, and a Graphical User Interface using tkinter in Python. <br />
+
+
+
+
+
+
