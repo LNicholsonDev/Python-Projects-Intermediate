@@ -1,4 +1,4 @@
-# Dev128
+# Python Projects - Intermediate
 Welcome to my Python repository for Dev128 - Python II.<br/> 
 Each project focuses on different aspects of Python, from basic scripts to more complex algorithms.
 
